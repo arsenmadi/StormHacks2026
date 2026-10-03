@@ -1,0 +1,3 @@
+[submodule "external/pyro-engine"]
+	path = external/pyro-engine
+	url = https://github.com/arsenmadi/StormHacks2026
